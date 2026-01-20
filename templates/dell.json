@@ -1,0 +1,11 @@
+{
+    "manufacturer": "Dell Inc.",
+    "product_names": [
+        "OptiPlex 7050",
+        "OptiPlex 7060",
+        "Latitude 7490"
+    ],
+    "bios_vendors": ["Dell Inc.", "American Megatrends Inc."],
+    "bios_version": ["1.5.0", "1.14.0", "2.1.1"],
+    "chassis_types": ["Desktop", "Tower"]
+}
