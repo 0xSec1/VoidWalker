@@ -13,9 +13,9 @@ VoidWalker is a Python-based orchestration tool designed to transform standard, 
 * **Network Stealth**: Randomizes MAC addresses with OUI prefixes from legitimate hardware vendors to evade network-based environment fingerprinting.
 
 ## Technical Stack
-Language: Python 3.13+.
-Interface: Libvirt API (via libvirt-python).
-Parsing Engine: lxml and xml.etree.ElementTree for robust XML transformation.
+* **Language**: Python 3.13+.
+* **Interface**: Libvirt API (via libvirt-python).
+* **Parsing Engine**: lxml and xml.etree.ElementTree for robust XML transformation.
 
 > [!NOTE]
 > Only tested on Arch
