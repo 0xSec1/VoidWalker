@@ -1,0 +1,28 @@
+{
+  "manufacturer": "ASUSTeK COMPUTER INC.",
+  "product_names": [
+    "ROG STRIX Z790-E GAMING WIFI",
+    "PRIME B760-PLUS",
+    "TUF GAMING X670E-PLUS WIFI",
+    "ROG STRIX B650-A GAMING WIFI",
+    "PROART X670E-CREATOR WIFI",
+    "PRIME Z790-P WIFI",
+    "TUF GAMING B550-PLUS",
+    "EX-A320M-GAMING"
+  ],
+  "bios_vendors": [
+    "American Megatrends Inc.",
+    "American Megatrends International, LLC.",
+    "ASUSTeK COMPUTER INC."
+  ],
+  "bios_versions": [
+    "0805",
+    "1402",
+    "3202",
+    "2412",
+    "1203",
+    "0401",
+    "3601"
+  ],
+  "chassis_types": ["Desktop", "Tower"]
+}

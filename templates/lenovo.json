@@ -1,0 +1,28 @@
+{
+  "manufacturer": "LENOVO",
+  "product_names": [
+    "ThinkCentre M90q Gen 3",
+    "ThinkCentre M70s Gen 4",
+    "ThinkCentre M75s Gen 2",
+    "ThinkCentre M80s Gen 3",
+    "ThinkCentre M90t Gen 3",
+    "ThinkCentre M720s",
+    "ThinkCentre M920q",
+    "ThinkCentre M910s"
+  ],
+  "bios_vendors": [
+    "LENOVO",
+    "American Megatrends Inc.",
+    "AMI"
+  ],
+  "bios_versions": [
+    "M1AKTxxA",
+    "M2AKTxxA",
+    "M3AKTxxA",
+    "M90KTxxA",
+    "R1CETxxA",
+    "S0AKTxxA",
+    "M1AKT50A"
+  ],
+  "chassis_types": ["Desktop", "Space-saving", "Low Profile"]
+}
