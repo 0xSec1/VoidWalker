@@ -12,6 +12,8 @@ VoidWalker is a Python-based orchestration tool designed to transform standard, 
 
 * **Network Stealth**: Randomizes MAC addresses with OUI prefixes from legitimate hardware vendors to evade network-based environment fingerprinting.
 
+* **Disk Spoofing**: a guest-side PowerShell script (`guest_clean_windows.ps1`)(temporary workaround) that overwrites visible disk identifiers in registry locations
+
 ## Technical Stack
 * **Language**: Python 3.13+.
 * **Interface**: Libvirt API (via libvirt-python).
@@ -42,5 +44,13 @@ Primary Command:
 ```bash
 sudo -E python3 main.py harden win10 --profile PROFILE_NAME --random-mac
 ```
+For Disk spoofing:
+1. Copy Script to Guest VM
+2. Run the script
+```powershell
+Set-ExecutionPolicy Bypass .\guest_clean_windows.ps1
+
+```
+
 ## Contribution
 Everyone is welcome to contribute.
